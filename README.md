@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Thamemul/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0796-rotate-string](https://github.com/Thamemul/leetcode-problems/tree/master/0796-rotate-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Thamemul/leetcode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## String Matching
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Thamemul/leetcode-problems/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Thamemul/leetcode-problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
