@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Thamemul/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0766-toeplitz-matrix](https://github.com/Thamemul/leetcode-problems/tree/master/0766-toeplitz-matrix) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Thamemul/leetcode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Matrix
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Thamemul/leetcode-problems/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Thamemul/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Thamemul/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
