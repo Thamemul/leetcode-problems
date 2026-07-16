@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Thamemul/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Thamemul/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0766-toeplitz-matrix](https://github.com/Thamemul/leetcode-problems/tree/master/0766-toeplitz-matrix) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Thamemul/leetcode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Thamemul/leetcode-problems/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Thamemul/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
