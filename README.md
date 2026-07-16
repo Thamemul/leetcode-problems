@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Thamemul/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Thamemul/leetcode-problems/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Thamemul/leetcode-problems/tree/master/0066-plus-one) |
 | [0560-subarray-sum-equals-k](https://github.com/Thamemul/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0766-toeplitz-matrix](https://github.com/Thamemul/leetcode-problems/tree/master/0766-toeplitz-matrix) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Thamemul/leetcode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Thamemul/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Thamemul/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Thamemul/leetcode-problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Thamemul/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Thamemul/leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 ## Dynamic Programming
