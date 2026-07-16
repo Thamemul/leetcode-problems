@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Thamemul/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Thamemul/leetcode-problems/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Thamemul/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Thamemul/leetcode-problems/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Thamemul/leetcode-problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
