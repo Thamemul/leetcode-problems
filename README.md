@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Thamemul/leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Thamemul/leetcode-problems/tree/master/0155-min-stack) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Thamemul/leetcode-problems/tree/master/1260-shift-2d-grid) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Thamemul/leetcode-problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
